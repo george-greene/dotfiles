@@ -1,0 +1,9 @@
+[window]
+# decorations = "None"
+# startup_mode = "SimpleFullscreen"
+
+[font]
+size = 16
+
+[mouse]
+hide_when_typing = true
