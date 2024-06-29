@@ -7,3 +7,6 @@ size = 16
 
 [mouse]
 hide_when_typing = true
+
+[env]
+TERM = "alacritty-direct"
