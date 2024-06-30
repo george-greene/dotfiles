@@ -1,9 +1,21 @@
+import = [
+  # uncomment the flavour you want below:
+  # "~/.config/alacritty/catppuccin-latte.toml"
+  # "~/.config/alacritty/catppuccin-frappe.toml"
+  # "~/.config/alacritty/catppuccin-macchiato.toml"
+  "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+live_config_reload = true
+
 [window]
 # decorations = "None"
 # startup_mode = "SimpleFullscreen"
 
 [font]
-size = 16
+normal.family = "0xProto Nerd Font Mono"
+normal.style = "Regular"
+size = 14
 
 [mouse]
 hide_when_typing = true
