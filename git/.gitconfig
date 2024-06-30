@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = George Greene
+	email = 170787498+george-greene@users.noreply.github.com
+	signingkey = 0582D23F20E4307C
+[core]
+	editor = nvim
+[commit]
+	gpgsign = true
