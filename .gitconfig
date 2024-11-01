@@ -1,0 +1,15 @@
+[init]
+	defaultBranch = main
+[user]
+	name = George Greene
+	email = 170787498+george-greene@users.noreply.github.com
+[push]
+	autoSetupRemote = true
+[diff]
+	tool = vim
+[merge]
+	tool = vim
+[difftool]
+	prompt = false
+[commit]
+	gpgsign = true
