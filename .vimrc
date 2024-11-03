@@ -1,1 +1,3 @@
-syntax off
+set ai
+set bg=dark
+set rnu
