@@ -6,9 +6,9 @@
 [push]
 	autoSetupRemote = true
 [diff]
-	tool = vim
+	tool = vimdiff
 [merge]
-	tool = vim
+	tool = vimdiff
 [difftool]
 	prompt = false
 [commit]
